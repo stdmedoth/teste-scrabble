@@ -1,6 +1,6 @@
 # Programador backend
 
-Nosso objetivo é avaliar os conhecimentos de desenvolvimento do candidato assim como a qualidade do código implementado.
+Nosso objetivo é avaliar os conhecimentos de desenvolvimento do candidato assim como a qualidade do código implementado.  
 Utilizando a linguagem de sua escolha, o candidato deverá implementar um aplicativo de Caça Palavras.
 
 #### O aplicativo deverá conter os seguintes requisitos:
@@ -21,4 +21,4 @@ Utilizando a linguagem de sua escolha, o candidato deverá implementar um aplica
 - Adicionar as informações de deploy da resolução;
 - Ao finazar o teste nos envie o link do repo;
 
-Qualquer dúvida nos contactar via e-mail e Boa Sorte!! =)
+Qualquer dúvida nos contactar via e-mail e **Boa Sorte!! =)**
