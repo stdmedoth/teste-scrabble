@@ -78,7 +78,6 @@
 
 	<script src="/assets/js/jquery-3.6.0.min.js"></script>
 	<script src="/assets/jqueryui/jquery-ui.min.js"></script>
-	<script src="/assets/js/multidraggable.js"></script>
 	<script src="/assets/js/bootstrap/bootstrap.js"></script>
 	<script src="/assets/js/teste-scrabble.js"></script>
 	
